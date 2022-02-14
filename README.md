@@ -1,3 +1,5 @@
+# This repo is getting old and was not developed under version control, hence the single commit.
+
 Welcome to the GAME OF AMAZONS.
 
 Everything is made to make your life easier whilst trying to play the game. You have to do almost nothing however, here are some points to take into consideration :
